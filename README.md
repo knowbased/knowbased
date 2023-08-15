@@ -3,7 +3,10 @@
 
 <h3 align="left">My projects</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=knowbased&repo=my-site&theme=dark"/>
+<p align="left">
+    <a href="https://github.com/knowbased/my-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=knowbased&repo=my-site&theme=dark"/><a/>
+    <a href="https://github.com/knowbased/react-countdown-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=knowbased&repo=react-countdown-timer&theme=dark"/><a/>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
